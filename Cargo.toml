@@ -1,0 +1,9 @@
+[package]
+name = "eat"
+version = "0.1.0"
+description = "A truncating cat"
+authors = ["Richard Patel <me@terorie.dev>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33"
